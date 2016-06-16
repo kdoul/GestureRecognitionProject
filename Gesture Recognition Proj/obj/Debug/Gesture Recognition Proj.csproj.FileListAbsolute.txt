@@ -1,0 +1,142 @@
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\cvextern.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_calib3d2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_contrib2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_core2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_features2d2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_flann2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_gpu2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_highgui2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_imgproc2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_legacy2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_ml2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_nonfree2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_objdetect2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_photo2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_stitching2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_superres2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_video2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_videostab2410.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.exe.config
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.exe
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.pdb
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\DirectShowLib-2005.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.GPU.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.ML.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OCR.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OpenCL.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.Stitching.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.UI.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.VideoStab.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.Util.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\ZedGraph.dll
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.GPU.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.ML.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OCR.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OpenCL.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.Stitching.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.UI.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.VideoStab.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.Util.xml
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.csprojResolveAssemblyReference.cache
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture_Recognition_Proj.Form1.resources
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture_Recognition_Proj.Properties.Resources.resources
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.csproj.GenerateResource.Cache
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.exe
+E:\Uni Projects\GestureRecognitionProj(Forms)\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.pdb
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\cvextern.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_calib3d2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_contrib2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_core2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_features2d2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_flann2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_gpu2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_highgui2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_imgproc2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_legacy2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_ml2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_nonfree2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_objdetect2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_photo2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_stitching2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_superres2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_video2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\opencv_videostab2410.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.exe.config
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.exe
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.pdb
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.Util.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\ZedGraph.dll
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\bin\Debug\Emgu.Util.xml
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.csprojResolveAssemblyReference.cache
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture_Recognition_Proj.Form1.resources
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture_Recognition_Proj.Properties.Resources.resources
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.csproj.GenerateResource.Cache
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.exe
+C:\Users\Kdoul\Desktop\Gesture Recognition Proj\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.pdb
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.exe.config
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.exe
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.pdb
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\cvextern.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_calib3d2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_contrib2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_core2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_features2d2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_flann2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_gpu2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_highgui2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_imgproc2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_legacy2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_ml2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_nonfree2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_objdetect2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_photo2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_stitching2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_superres2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_video2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\opencv_videostab2410.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.exe
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Gesture Recognition Proj.pdb
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.GPU.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.ML.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.OCR.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.OpenCL.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.Stitching.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.UI.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.VideoStab.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.Util.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\ZedGraph.dll
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.GPU.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.ML.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.OCR.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.OpenCL.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.Stitching.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.UI.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.CV.VideoStab.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\bin\Debug\Emgu.Util.xml
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.csprojResolveAssemblyReference.cache
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\obj\Debug\Gesture_Recognition_Proj.Form1.resources
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\obj\Debug\Gesture_Recognition_Proj.Properties.Resources.resources
+H:\Uni Projects\multimediacom\Gesture Recognition Proj(8-2, Cleanup)\Gesture Recognition Proj\obj\Debug\Gesture Recognition Proj.csproj.GenerateResource.Cache
